@@ -1,6 +1,4 @@
-# Required-Assignment-11.1-What-Drives-the-Price-of-a-Car-
-
-Executive Summary of Findings
+##Executive Summary of Findings
 
 Business Objective
 This analysis explores a dataset of 426,000 used cars to uncover what factors most influence vehicle price. The objective is to help you better understand consumer preferences and optimize inventory and pricing strategies.
@@ -21,6 +19,16 @@ Recommendations for fine-tuning inventory
 •	Reduce inventory of cars in that are approaching the 5-7 year age threshold as these depreciate quickly during that time. Do so by either buy newer cars or cars that already have 7 years of age
 •	De-prioritize buying relatively new cars (<10years old) if they already have higher mileage.
 •	Focus on brands whose price depreciates more modestly as they age (Toyota, Chevrolet, GMC and Ram)
+
+## Notebook
+https://github.com/alexandremeyran/Required-Assignment-11.1-What-Drives-the-Price-of-a-Car-/blob/main/Used%20Car%20Prices%20Meyran.ipynb
+
+
+## Contents
+
+- `notebook.ipynb`: All data cleaning, modeling, and plots
+- `vehicles.csv`: Source dataset
+- `README.md`: Project summary
 
 
 
